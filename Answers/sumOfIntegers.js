@@ -7,6 +7,5 @@ function recursiveSum(...args) {
     return args[0] + recursiveSum(...args.slice(1));
   }
 }
-
-let sum = recursiveSum(1,2,3,4,5);
+let sum = recursiveSum(1, 2, 3, 4, 5);
 console.log(recursiveSum);
