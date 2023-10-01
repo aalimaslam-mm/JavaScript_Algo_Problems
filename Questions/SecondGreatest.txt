@@ -1,0 +1,5 @@
+return the second greatest in an array without sorting the array 
+
+for example 
+secondGreatest([1,2,3,4,5]) // 4
+secondGreatest([5,7,22,9,7]) // 9

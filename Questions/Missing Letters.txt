@@ -1,0 +1,7 @@
+Missing Letters
+
+create a function that takes a string and returns the missing letter from the alphabetical sequence.
+
+Examples
+missingLetter("abdefg") ➞ "c"
+missingLetter("mnopqs") ➞ "r"
