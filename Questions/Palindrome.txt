@@ -1,0 +1,1 @@
+create a function that returns a boolean value based on if a given string is palindrome or not
